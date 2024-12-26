@@ -12,6 +12,10 @@ public class TypesOfVariables {
 		int a=(int)f;  
 		System.out.println(f);  
 		System.out.println(a);
+		int aa=130;  
+		byte b=(byte)aa;  
+		System.out.println(aa);  
+		System.out.println(b);  
 
 	}
 	 
