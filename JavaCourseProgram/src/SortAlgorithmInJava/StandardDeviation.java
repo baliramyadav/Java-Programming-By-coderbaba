@@ -21,6 +21,7 @@ public class StandardDeviation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.format("this is simple Standard Deviation program in java. ");
 		double[] numArray = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
         double SD = calculateSD(numArray);
 
